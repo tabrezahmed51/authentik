@@ -24,7 +24,7 @@
         "@goauthentik/prettier-config": "link:../packages/prettier-config",
         "@goauthentik/tsconfig": "link:../packages/tsconfig",
         "@types/node": "catalog:",
-        "deepmerge-ts": "^7.1.5",
+        "deepmerge-ts": "^8.0.0",
         "escape-string-regexp": "^5.0.0",
         "eslint": "catalog:",
         "netlify-plugin-cache": "^1.0.3",
